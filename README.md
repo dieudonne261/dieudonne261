@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://portfolio-lemon-rho-15.vercel.app/assets/images/Preloader3.gif" width="100"/>
 </div>
 
 <div id="title" align="center">
   <h1>
-    Salut, je suis Dieu Donné RANDRIANARISON 👋
+    Salut, je suis Dieu Donné RANDRIANARISON
     <a href="https://github.com/dieudonne261">
       <img src="https://komarev.com/ghpvc/?username=dieudonne261&style=flat-square&color=blue" alt="Profile views"/>
     </a>
@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+### À propos de moi
 
 🎓 Étudiant en **Master Informatique** à l'Université Adventiste Zurcher, je suis passionné par la création de solutions logicielles innovantes. Mon objectif est de transformer des idées complexes en applications fonctionnelles et intuitives. 
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Mes Compétences Techniques
+### Mes Compétences Techniques
 
 <p align="center">
   <strong>Langages & Frameworks</strong><br/><br/>
