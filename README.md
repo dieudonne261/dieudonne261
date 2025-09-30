@@ -24,11 +24,11 @@
 
 ### À propos de moi
 
-🎓 Étudiant en **Master Informatique** à l'Université Adventiste Zurcher, je suis passionné par la création de solutions logicielles innovantes. Mon objectif est de transformer des idées complexes en applications fonctionnelles et intuitives. 
+Étudiant en **Master Informatique** à l'Université Adventiste Zurcher, je suis passionné par la création de solutions logicielles innovantes. Mon objectif est de transformer des idées complexes en applications fonctionnelles et intuitives. 
 
-💡 Curieux et avide d'apprendre, j'explore constamment les nouvelles technologies.
-🚀 Prêt à relever les défis du monde professionnel et à collaborer sur des projets ambitieux.
-🌍 Basé à **Madagascar** — ouvert aux opportunités locales et en télétravail.
+Curieux et avide d'apprendre, j'explore constamment les nouvelles technologies.
+Prêt à relever les défis du monde professionnel et à collaborer sur des projets ambitieux.
+Basé à **Madagascar** — ouvert aux opportunités locales et en télétravail.
 
 ---
 
@@ -102,7 +102,7 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### Mes Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dieudonne261&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
