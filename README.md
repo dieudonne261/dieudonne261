@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://portfolio-lemon-rho-15.vercel.app/assets/images/Preloader3.gif" width="100"/>
-</div>
 
 <div id="title" align="center">
   <h1>
@@ -12,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-lemon-rho-15.vercel.app/">
+  <a href="https://dede.is-a.dev/">
     <img src="https://img.shields.io/badge/Mon_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:ddieu0970@gmail.com">
@@ -80,9 +77,6 @@ Basé à **Madagascar** — ouvert aux opportunités locales et en télétravail
 
 <p align="center">
   <strong>Outils & Plateformes</strong><br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
